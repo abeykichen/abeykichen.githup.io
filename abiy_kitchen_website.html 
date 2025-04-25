@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abiy Kitchen | Ethiopian Restaurant Leeds</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background: #fff8e1;
+      color: #333;
+    }
+    header {
+      background: #f4b400;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    section {
+      padding: 1em 2em;
+    }
+    h2 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.5em;
+    }
+    .menu-item {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0.5em;
+    }
+    .menu-item span {
+      font-weight: bold;
+    }
+    footer {
+      background: #eee;
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+    }
+    .amharic {
+      font-style: italic;
+      color: #555;
+    }
+    .call-button {
+      display: block;
+      width: 80%;
+      margin: 1em auto;
+      padding: 0.8em;
+      background-color: #f4b400;
+      color: white;
+      font-size: 1.1em;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Abiy Kitchen</h1>
+    <p>Authentic Ethiopian Cuisine | አቢይ ኪችን</p>
+    <p>📍 Lincoln Green, Leeds, LS9</p>
+  </header>
+
+  <a class="call-button" href="tel:0718325754">📞 Call Us</a>
+
+  <section>
+    <h2>Main Dishes</h2>
+    <div class="menu-item"><span>Doro Wot</span><span>ETB 450 / £6.50</span></div>
+    <div class="amharic">ዶሮ ወጥ</div>
+    <div class="menu-item"><span>Tibs</span><span>ETB 500 / £7.20</span></div>
+    <div class="amharic">ትብስ</div>
+    <div class="menu-item"><span>Shiro Wot</span><span>ETB 400 / £5.80</span></div>
+    <div class="amharic">ሽሮ ወጥ</div>
+    <div class="menu-item"><span>Vegetarian Combo</span><span>ETB 520 / £7.50</span></div>
+    <div class="amharic">የአትክልት ድምር</div>
+  </section>
+
+  <section>
+    <h2>Drinks & Desserts</h2>
+    <div class="menu-item"><span>Ethiopian Coffee</span><span>ETB 100 / £1.40</span></div>
+    <div class="amharic">ቡና</div>
+    <div class="menu-item"><span>Spiced Tea</span><span>ETB 80 / £1.10</span></div>
+    <div class="amharic">ተመርቶ የተሰራ ቡና</div>
+    <div class="menu-item"><span>Soft Drinks</span><span>ETB 70 / £1.00</span></div>
+    <div class="amharic">ሶፍት ድሪንክስ</div>
+    <div class="menu-item"><span>Baklava</span><span>ETB 180 / £2.60</span></div>
+    <div class="amharic">ባክላቫ</div>
+    <div class="menu-item"><span>Fruit Salad</span><span>ETB 160 / £2.30</span></div>
+    <div class="amharic">ፍራፍሬ ሰላጣ</div>
+  </section>
+
+  <footer>
+    Open Daily | Traditional Ethiopian Coffee Ceremony Available | © Abiy Kitchen 2025
+  </footer>
+</body>
+</html>
